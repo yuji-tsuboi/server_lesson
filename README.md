@@ -13,8 +13,6 @@ Linuxプラクティス
 * mv
 * cd 
 * rm
-* rm -rf /
 * echo '# サーバレッスン' > README.md
-* echo 'Linuxプラクティス' >> README.md
 * cat
 * vi
