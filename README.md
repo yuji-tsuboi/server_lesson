@@ -6,13 +6,12 @@ Linuxプラクティス
 * cd 
 * mkdir
 * &&
-* git init
 * touch
 * mkdir -p
 * cp
 * mv
 * cd 
 * rm
-* echo '# サーバレッスン' > README.md
+* echo
 * cat
 * vi
